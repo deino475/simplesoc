@@ -1,4 +1,4 @@
-from data import JOB_TITLE_DICTIONARY
+from simplesoc.data import JOB_TITLE_DICTIONARY
 
 
 def find_soc_code(
