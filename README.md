@@ -13,6 +13,7 @@ pip install simplesoc
 ## Usage
 
 ```python
-
+from simplesoc import find_soc_code
+soc_code_predictions = find_soc_code('Softwear Enginer', year = 'US.2018', n_socs = 3)
 
 ```
