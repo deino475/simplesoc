@@ -7,7 +7,7 @@ setup(
     author_email='niledixon475@gmail.com',
     packages=['simplesoc'],
     install_requires=[],
-    version='0.2.1',
+    version='0.5.0',
     license='GNU GPL-V3',
     description='A simple Python library for assigning Standard Occupational Classification (SOC) codes to job titles.',
     long_description=open('README.md').read(),
@@ -15,3 +15,4 @@ setup(
     package_dir={"": "src"},
     python_requires=">=3.6"
 )
+
