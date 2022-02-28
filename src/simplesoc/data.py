@@ -1,4 +1,4 @@
-from simplesoc.classifications.us_2018 import US_2018
+from .classifications.us_2018 import US_2018
 
 
 JOB_TITLE_DICTIONARY = {
